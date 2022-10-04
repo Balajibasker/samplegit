@@ -1,4 +1,4 @@
-
+import numpy
 a=20
 b=10
 
